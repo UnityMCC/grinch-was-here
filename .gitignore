@@ -1,0 +1,15 @@
+# organiser-only material, never published
+_organiser/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
